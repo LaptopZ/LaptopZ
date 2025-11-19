@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Im lapt 
+full name Andreas Poumpouris
+currently studying in cyprus
+class of 2026
 <!--
 **LaptopZ/LaptopZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
