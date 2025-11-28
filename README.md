@@ -10,5 +10,3 @@ thanks for stopping by!
 
 TikTok: @laptopz  
 Discord: @laptopz
-
-oh I also got a mini hackathon soon, wish me luck!
